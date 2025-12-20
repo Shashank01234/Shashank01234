@@ -96,24 +96,33 @@ Software Developer · Engineering Mindset · Problem Solver
 ## 🤝 Connect With Me 🌐
 
 <p align="center">
-  <a href="mailto:spandey21217@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png"/>
+  <a href="mailto:spandey21217@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="32" height="32"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/shashank-pandey-292b3a251">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/shashank-pandey-292b3a251" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="32" height="32"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Shashank014/">
-    <img src="https://img.icons8.com/color/48/leetcode.png"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/Shashank01234" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="32" height="32"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/shashank0123">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-logo-color-tal-revivo.png"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/Shashank014/" title="LeetCode">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" width="32" height="32"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/spandey2tzt">
-    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://codeforces.com/profile/shashank0123" title="Codeforces">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codeforces.svg" width="32" height="32"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.geeksforgeeks.org/profile/spandey2tzt" title="GeeksforGeeks">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/geeksforgeeks.svg" width="32" height="32"/>
   </a>
 </p>
 
