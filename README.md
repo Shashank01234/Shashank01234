@@ -97,34 +97,41 @@ Software Developer · Engineering Mindset · Problem Solver
 
 <p align="center">
   <a href="mailto:spandey21217@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg"
+         width="32" height="32" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/shashank-pandey-292b3a251" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+         width="32" height="32" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/Shashank01234" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"
+         width="32" height="32" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/Shashank014/" title="LeetCode">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg"
+         width="32" height="32" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://codeforces.com/profile/shashank0123" title="Codeforces">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codeforces.svg" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codeforces.svg"
+         width="32" height="32" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.geeksforgeeks.org/profile/spandey2tzt" title="GeeksforGeeks">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/geeksforgeeks.svg" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/geeksforgeeks.svg"
+         width="32" height="32" style="filter: invert(1);" />
   </a>
 </p>
+
 
 ---
 
