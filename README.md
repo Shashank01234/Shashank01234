@@ -1,27 +1,124 @@
-<h1 align="center">Hey there 👋, I'm Shashank Pandey</h1>
-<h3 align="center">Building scalable systems, one commit at a time.</h3>
+<h1 align="center">Hi 👋, I'm Shashank Pandey</h1>
 
-- 🔭 I’m currently working on [Multi Vendor Ecommerce](https://github.com/Shashank01234/multi-vendor-ecommerce)
+<h3 align="center">
+Software Developer · Engineering Mindset · Problem Solver
+</h3>
 
-- 🌱 I’m currently learning **Nextjs, MongoDB and PayloadCMS**
-
-- 📫 How to reach me **spandey21217@gmail.com**
-
-- 📄 Know about my experiences [https://shashankresume1.tiiny.site/](https://shashankresume1.tiiny.site/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shashank-pandey-292b3a251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-pandey-292b3a251" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shashank0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shashank0123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shashank014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashank014" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/spandey2tzt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="spandey2tzt" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=6FA8DC&center=true&vCenter=true&width=520&lines=I+build+things+that+scale;I+solve+problems+with+clarity;I+learn+by+building+real+systems" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank01234&show_icons=true&locale=en&layout=compact" alt="shashank01234" /></p>
+## 🔥 Current Focus ⚡
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank01234&" alt="shashank01234" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=9FEF00&center=true&vCenter=true&width=600&lines=Data+Structures+%26+Algorithms;System+Thinking;Clean+Architecture;Scalable+Development" />
+</p>
+
+---
+
+## 🚧 Currently Working On 🛠️
+
+<p align="center">
+  <a href="https://github.com/Shashank01234/multi-vendor-ecommerce">
+    <img src="https://img.shields.io/badge/Multi--Vendor%20E--Commerce-Active-blue?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Next.js · TypeScript · Scalable Architecture</sub>
+</p>
+
+---
+
+## 🛠️ Tech Stack 🧰
+
+**Languages:**  
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,sql" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=800&color=8A8A8A&width=420&lines=Java+·+JavaScript+·+TypeScript+·+Python+·+C%2B%2B+·+SQL" />
+
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=800&color=8A8A8A&width=420&lines=React+·+Next.js+·+Tailwind+CSS+·+HTML5+·+CSS3" />
+
+**Backend & Databases:**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=800&color=8A8A8A&width=460&lines=Node.js+·+Express+·+MongoDB+·+PostgreSQL+·+Firebase" />
+
+**Tools & Platforms:**  
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,vercel" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=800&color=8A8A8A&width=360&lines=Git+·+GitHub+·+Linux+·+AWS+·+Vercel" />
 
 
+
+---
+
+## 🧠 Problem Solving & DSA ⚔️
+
+<p align="center">
+  <a href="https://leetcode.com/u/Shashank014/">
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/shashank0123">
+    <img src="https://img.shields.io/badge/Codeforces-Contest%20Experience-blue?style=for-the-badge&logo=codeforces"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/spandey2tzt">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solving-darkgreen?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Consistency over cramming. Patterns over memorization.</sub>
+</p>
+
+---
+
+## 📊 GitHub Activity 📈
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashank01234&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank01234&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank01234&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me 🌐
+
+<p align="center">
+  <a href="mailto:spandey21217@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/shashank-pandey-292b3a251">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Shashank014/">
+    <img src="https://img.icons8.com/color/48/leetcode.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/shashank0123">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-logo-color-tal-revivo.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/spandey2tzt">
+    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Always learning. Always improving. Open to meaningful opportunities.</sub>
+</p>
