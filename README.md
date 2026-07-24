@@ -21,40 +21,26 @@ Software Developer · Engineering Mindset · Problem Solver
 ## 🚧 Currently Working On 🛠️
 
 <p align="center">
-  <a href="https://github.com/Shashank01234/multi-vendor-ecommerce">
-    <img src="https://img.shields.io/badge/Multi--Vendor%20E--Commerce-Active-blue?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Shashank01234/recall">
+    <img src="https://img.shields.io/badge/Recall-Active-success?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 <p align="center">
-  <sub>Next.js · TypeScript · Scalable Architecture</sub>
+  <sub>Spring Boot · Next.js · PostgreSQL · JWT · Spaced Repetition Algorithm</sub>
 </p>
 
 ---
 
-## 🛠️ Tech Stack 🧰
+## ⚡ Tech Stack
 
-**Languages:**  
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,sql" />
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=800&color=8A8A8A&width=420&lines=Java+·+JavaScript+·+TypeScript+·+Python+·+C%2B%2B+·+SQL" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nextjs,react,postgres,nodejs,tailwind,git,aws" />
+</p>
 
-**Frontend:**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=800&color=8A8A8A&width=420&lines=React+·+Next.js+·+Tailwind+CSS+·+HTML5+·+CSS3" />
-
-**Backend & Databases:**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" />
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=800&color=8A8A8A&width=460&lines=Node.js+·+Express+·+MongoDB+·+PostgreSQL+·+Firebase" />
-
-**Tools & Platforms:**  
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws,vercel" />
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=800&color=8A8A8A&width=360&lines=Git+·+GitHub+·+Linux+·+AWS+·+Vercel" />
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=6FA8DC&center=true&vCenter=true&width=700&lines=Java+•+Spring+Boot+•+Next.js+•+React;PostgreSQL+•+Node.js+•+Tailwind+CSS+•+AWS;Building+Scalable+Full+Stack+Applications" />
+</p>
 
 ---
 
@@ -80,15 +66,18 @@ Software Developer · Engineering Mindset · Problem Solver
 
 ---
 
-## 📊 GitHub Activity 📈
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashank01234&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank01234&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Shashank01234&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank01234&theme=tokyonight&hide_border=true"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank01234&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
