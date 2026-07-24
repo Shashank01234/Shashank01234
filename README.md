@@ -39,7 +39,7 @@ Software Developer · Engineering Mindset · Problem Solver
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=6FA8DC&center=true&vCenter=true&width=700&lines=Java+•+Spring+Boot+•+Next.js+•+React;PostgreSQL+•+Node.js+•+Tailwind+CSS+•+AWS;Building+Scalable+Full+Stack+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=6FA8DC&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Next.js+%7C+React;PostgreSQL+%7C+Node.js+%7C+Tailwind+CSS+%7C+AWS;Building+Scalable+Full+Stack+Applications" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ Software Developer · Engineering Mindset · Problem Solver
 <tr>
 <td align="center" width="50%">
 
-<img src="https://streak-stats.demolab.com?user=Shashank01234&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank01234&theme=tokyonight&hide_border=true"/>
 
 </td>
 
