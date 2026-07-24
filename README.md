@@ -68,13 +68,21 @@ Software Developer · Engineering Mindset · Problem Solver
 
 ## 📊 GitHub Activity
 
-<p align="center"> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank01234&theme=tokyonight&hide_border=true"/> </p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<p align="center">
+<img src="https://streak-stats.demolab.com?user=Shashank01234&theme=tokyonight&hide_border=true" />
 
-<img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank01234&theme=tokyo-night&hide_border=true"/>
+</td>
 
-</p>
+<td align="center" width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank01234&theme=tokyo-night&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 ---
 
